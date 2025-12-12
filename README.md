@@ -1,2 +1,2 @@
-### Desafio Jogo de Advinhação curso de Java Alura!
+### Desafio Jogo de Advinhação curso de Java Alura - Java: criando a sua primeira aplicação!
 * Resolvendo o proposto: <p> Crie um programa que simula um jogo de adivinhação, que deve gerar um número aleatório entre 0 e 100 e pedir para que o usuário tente adivinhar o número, em até 5 tentativas. A cada tentativa, o programa deve informar se o número digitado pelo usuário é maior ou menor do que o número gerado. 
